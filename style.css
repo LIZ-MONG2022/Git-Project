@@ -3,17 +3,20 @@
     margin: 0;
 }
 .first{
-color: blue;
+    background-color: blue;
 font-weight: 200;
 font: italic;
+text-align: center;
 }
 .second{
-    color: blueviolet;
+    background-color: blueviolet;
     font-weight: 300;
     font: bold;
+    text-align: center;
 }
 .third{
-    color: brown;
+    background-color: brown;
     font-weight: 400;
     font: large;
+    text-align: center;
 }
