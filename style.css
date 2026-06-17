@@ -1,5 +1,19 @@
 *{
     padding: 0%;
     margin: 0;
-    
+}
+.first{
+color: blue;
+font-weight: 200;
+font: italic;
+}
+.second{
+    color: blueviolet;
+    font-weight: 300;
+    font: bold;
+}
+.third{
+    color: brown;
+    font-weight: 400;
+    font: large;
 }
