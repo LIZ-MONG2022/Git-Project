@@ -6,8 +6,8 @@
 body {
   background-color: bisque;
   background-repeat: no-repeat;
-  background-size: cover
-height: 100vh
+  background-size: cover;
+height: 100vh;
 }
 .h1 {
   display: flex;
